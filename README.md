@@ -1,10 +1,10 @@
 # CODTECH-FULLSTACK-Task1
 **OVERVIEW OF THE PROJECT:**
 Project Name: Portfolio with Backend
-Name: Ram Saketh
-Company: Codtech IT Solutions
-ID: CT08DS7598 
-Domain: Full-stack Development
+Name: Ram Saketh                    
+Company: Codtech IT Solutions       
+ID: CT08DS7598                      
+Domain: Full-stack Development      
 Duration: August 30th to September 30th of 2024
 
 **Objective:**
