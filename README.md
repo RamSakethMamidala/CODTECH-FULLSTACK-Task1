@@ -7,6 +7,10 @@ ID: CT08DS7598
 Domain: Full-stack Development      
 Duration: August 30th to September 30th of 2024
 
+**Samput Output**
+![image](https://github.com/user-attachments/assets/0643a168-6644-460d-9fa2-3011ea5b8b37)
+
+
 **Objective:**
 Develop a personal portfolio website with a backend using Flask for server-side logic and HTML, CSS, and JavaScript for the frontend. This project aims to showcase your skills in web development, improve frontend design abilities, and gain experience in backend development with Flask.
 
